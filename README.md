@@ -1,2 +1,4 @@
 # hello-world
-This repository is intended for exploring github and learing repository usage.
+
+Hi friends!
+Time is no illusion. Illusion is no time.
